@@ -1,0 +1,8 @@
+{
+  "name": "KT 0.9.9.7",
+  "description": "Beta Test 2 - Fix EditScreen - LibraryScreen 2 - BaseCard - Collection - Service - Button - Parse - Form - Error",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
